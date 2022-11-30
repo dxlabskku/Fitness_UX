@@ -1,4 +1,4 @@
-# FitnessUX
+# Motivations for user satisfaction of mobile fitness applications: An analysis of user experience based on online review comments
 This repository contains data for the paper "Motivations for user satisfaction of mobile fitness applications: Ananalysis of user experience based on online review comments".
 
 ## Overview
