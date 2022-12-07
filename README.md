@@ -8,7 +8,7 @@ Considering that mobile fitness applications are one of the necessities in our l
 The dataset is collected reviews of the top five mobile fitness applications in the Google US Play Store.
 
 ## Content
-Thedataset contains the textual reviews, LIWC results and star rating scores.
+The dataset contains the textual reviews, LIWC results and star rating scores.
 
 ## Reference
 To be updated.
