@@ -11,6 +11,7 @@ The dataset is collected reviews of the top five mobile fitness applications in 
 The dataset contains the textual reviews, LIWC results and star rating scores.
 
 ## Reference
+```
 @article{ahn2023motivations,
   title={Motivations for user satisfaction of mobile fitness applications: An analysis of user experience based on online review comments},
   author={Ahn, Hyeongjin and Park, Eunil},
@@ -21,3 +22,4 @@ The dataset contains the textual reviews, LIWC results and star rating scores.
   year={2023},
   publisher={Palgrave}
 }
+```
